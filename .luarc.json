@@ -1,0 +1,14 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "fullscreenTrue",
+        "love",
+        "cmr",
+        "lg",
+        "lm",
+        "lw"
+    ],
+    "diagnostics.disable": [
+        "unused-local"
+    ]
+}
